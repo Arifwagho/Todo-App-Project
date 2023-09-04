@@ -1,0 +1,66 @@
+#main {
+    padding: 0;
+    margin: 0;
+    width: 450px;
+    background-color: rgb(174, 184, 184);
+    border-radius: 10px;
+    margin-left: 35%;
+}
+
+h1 {
+
+    text-align: center;
+}
+
+.inputandbutton {
+    text-align: center;
+   
+}
+input{
+border: 0;
+padding: 10px;
+border-radius: 10px;
+
+}
+
+
+.buttons {
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: gray;
+}
+
+ul{
+    text-align: center; 
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px; 
+
+}
+
+.listStyle {
+    width: 93%;
+    margin: 2px;
+    background-color: rgba(0, 0, 0, 0.582);
+    color: white;
+    padding: 4px;
+    border: 1px solid rgba(128, 128, 128, 0.575);
+    border-radius: 10px;
+    /* color: white; */
+    /* list-style-type: lower-roman; */
+    
+    list-style: none;
+    margin: 10px;
+    font-size: 20px;
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+
+}
+button{
+    
+    padding: 2px;
+    margin-left:  10px;
+    border-radius: 5px;
+    border-color: gray;
+
+}
